@@ -112,9 +112,6 @@ const std::initializer_list<const char*> SEED_NODES = {
   
   "http://server1.recyclebit.org:17236",
   "http://server2.recyclebit.org:17236",
-  "http://server3.recyclebit.org:17236",
-  "http://server4.recyclebit.org:17236",
-  "http://server5.recyclebit.org:17236",
 };
 
 struct CheckpointData {
